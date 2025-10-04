@@ -1,4 +1,4 @@
 fastapi==0.100.0
 uvicorn[standard]==0.23.1
-yt-dlp==2025.09.28
+yt-dlp
 
